@@ -1,1 +1,3 @@
 # Data-Visualizations
+
+From news to cutting-edge scientific papers, from a home office to the largest companies in the world, data visualization is a critical step in understanding data. Because data visualization is indispensable in data analysis, data visualization has become an essential skill for every knowledge worker.  Therefore, l learnt the fundamentals of data visualization in the context of perception, integrity, design, statistics, types of data, and visualization techniques through the "Data Visualization" course I had enrolled in my university.  The hands-on exercises using the Python stack aim to equip you with practical data visualization skills and the Github repository contains these hands-on assignments and the project.
